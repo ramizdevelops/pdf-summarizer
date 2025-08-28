@@ -3,4 +3,4 @@ __pycache__/
 *.pyo
 *.pyd
 *.mp3
-*.txt
+!requirements.txt
